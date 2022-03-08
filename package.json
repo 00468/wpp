@@ -1,0 +1,25 @@
+{
+  "name": "wpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00468/wpp.git"
+  },
+  "author": "00468",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00468/wpp/issues"
+  },
+  "homepage": "https://github.com/00468/wpp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
